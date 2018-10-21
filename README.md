@@ -1,0 +1,1 @@
+# MinerPro-for-NiceHash-1.1.0.24
